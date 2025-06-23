@@ -21,8 +21,7 @@ Este projeto tem como objetivo identificar os principais fatores que influenciam
 - NumPy
 - Seaborn
 - Matplotlib
-- Google Colab / Jupyter Notebook
-
+- Google Colab 
 ---
 
 ## 📁 Organização dos Dados
