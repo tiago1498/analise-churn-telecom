@@ -56,8 +56,6 @@ O arquivo JSON contém informações em 4 blocos:
 
 - `TELECOM_X_FINAL.ipynb`: Notebook completo com tratamento, análise e relatório
 - `README.md`: Este arquivo
-- (opcional) `relatorio.pdf`: exportação do notebook com visualizações e texto
-
 ---
 
 ## 🤝 Contribuições
